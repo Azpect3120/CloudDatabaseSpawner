@@ -35,7 +35,7 @@ Connect to the database:
 psql -h your_server_ip -U username -d username
 ```
 
-### Found this fix: (stackoverflow.com)[https://stackoverflow.com/questions/67276391/why-am-i-getting-a-permission-denied-error-for-schema-public-on-pgadmin-4]
+### Found this fix: [stackoverflow.com](https://stackoverflow.com/questions/67276391/why-am-i-getting-a-permission-denied-error-for-schema-public-on-pgadmin-4)
 
 ```bash
 CREATE DATABASE EXAMPLE_DB;
